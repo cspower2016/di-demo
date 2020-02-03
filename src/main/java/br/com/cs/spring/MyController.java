@@ -1,4 +1,4 @@
-package br.com.cs.didemo.controllers;
+package br.com.cs.spring;
 
 import org.springframework.stereotype.Controller;
 
