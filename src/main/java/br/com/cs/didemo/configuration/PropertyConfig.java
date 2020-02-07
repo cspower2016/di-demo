@@ -12,7 +12,7 @@ import br.com.cs.didemo.examplesbeans.FakeDataSource;
 import br.com.cs.didemo.examplesbeans.JmsDataSource;
 
 @Configuration
-@PropertySource({ "classpath:cs.properties", "classpath:jms.properties" })
+@PropertySource({ "classpath:cs.properties" })
 public class PropertyConfig {
 
 	@Autowired
