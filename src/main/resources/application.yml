@@ -1,0 +1,9 @@
+jms: 
+  username: "CARLOS YAML USER"
+  password: 123
+  url: www.com 
+---
+spring:
+    profiles: de
+jms:
+  username: JSM FROM GERMANY      
